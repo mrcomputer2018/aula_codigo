@@ -1,0 +1,31 @@
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+body {
+    background: rgb(197, 197, 195) url(img/noise.png);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+.place {
+    background-color: white;
+    border: 1px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: rgb(83, 82, 82);
+}
+.place h2 {
+    border-bottom: 1px dashed #7E9F19;
+    margin 1px;
+}
+.place a {
+    color: #2C88A7;
+    font-weight: bold;
+}
+h1 a {
+    color: rgb(63, 61, 61);
+    text-decoration: none;
+    text-shadow: 3px 3px 1px gray;
+}
