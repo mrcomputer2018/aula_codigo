@@ -17,7 +17,7 @@ body {
     color: rgb(83, 82, 82);
 }
 .place h2 {
-    border-bottom: 1px dashed #7E9F19;
+    border-bottom: 1px dashed #2C88A7;
 }
 .place a {
     color: #2C88A7;
@@ -31,4 +31,35 @@ h1 a {
 h1 a:hover	{
     background-color: rgb(152, 153, 150);
     color: white;
+}
+.place img	{
+    border: 1px	solid	#2C88A7;
+    float:	left;
+    margin: 10px 10px 0px 0;
+    padding: 2px;
+}
+.clear	{
+    clear:	both;
+}
+.footer	{
+    font-size: 12px;
+    text-align:	center;
+}
+.sidenote	{
+    background-color: white;
+    border: 1px	solid	#C9BC8F;
+    float:	right;
+    padding: 10px;
+    width: 260px;
+}
+.sidenote h3	{
+    font-size: 14px;
+    margin-top: 0;
+}
+.sidenote ol {
+font-size: 12px;
+}
+.places	{
+    float:	left;
+    width: 660px;
 }
